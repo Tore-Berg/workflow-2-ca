@@ -1,0 +1,38 @@
+{
+  "name": "workflow2_ca",
+  "version": "1.0.0",
+  "description": "workflow2_ca",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-Tore-Berg.git"
+  },
+  "author": "Tore Berg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-Tore-Berg/issues"
+  },
+  "homepage": "https://github.com/Noroff-FEU-Assignments/workflow-2-course-assignment-Tore-Berg#readme",
+  "dependencies": {
+    "apollo-boost": "^0.4.9",
+    "babel": "^6.23.0",
+    "graphql": "^15.5.3",
+    "lodash": "^4.17.21",
+    "react": "^17.0.2",
+    "react-apollo": "^3.1.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-typescript": "^7.15.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^27.1.1",
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "jest": "^27.1.1",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
